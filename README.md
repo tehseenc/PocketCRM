@@ -6,7 +6,7 @@
 <p align="center">
   Login Page
   <br><br>
-  <img src="https://lh3.googleusercontent.com/cBRB6aUlEhgsFZaLQFBduCYrZN1MpJFBDntA_3O3Pj-4vlALwk59K8nHqkYxEZdqiS7Ju-gDmj1_">
+  <img src="https://raw.githubusercontent.com/tehseenc/PocketCRM/master/screenshots/Screenshot%20from%202019-12-02%2022-23-21.png">
 </p>
 <p>If this is the first time the application is launched the user is required to register.</p>
 <p align="center">
