@@ -12,25 +12,25 @@
 <p align="center">
   Registeration Page
   <br><br>
-  <img src="https://lh3.googleusercontent.com/NhCHEtud5-Gph9dALlxlfnPFPQ_tBFdzir1_uRWaZPCrFTy3UqnIZR39Ypm5oz_kriUw2e-CGG_A">
+  <img src="https://github.com/tehseenc/PocketCRM/blob/master/screenshots/Screenshot%20from%202019-12-02%2022-24-12.png?raw=true">
 </p>
 <p>Once that is done the user can then login, the will then be greeted by an empty dashboard screen. They will have to drag out the drawer by either pressing the drawer button on swiping from the left edge of the phone to the right.</p>
 <p align="center">
   Drawer
   <br><br>
-  <img src="https://lh3.googleusercontent.com/u6Vy1a-_Y4mkly3ZSJk0iJVdDWwhVNgPw9OAc1J7-AKJFNn81a_7us4CsL2OeCcU9L7HqzZAFniD">
+  <img src="https://github.com/tehseenc/PocketCRM/blob/master/screenshots/Screenshot%20from%202019-12-02%2022-24-46.png?raw=true">
 </p>
 <p>They will then have to click on the Tables link that will take them to the tables page, which will list all the tables they have. Initially it will be empty so they will have to create a table by clicking the add table button.</p>
 <p align="center">
  Empty Table Page
   <br><br>
-  <img src="https://lh3.googleusercontent.com/LOgbO3WuiPUwddHfc_ND8NthQDPZsbr4t2AtJnAscGsY84_N0kDRVRCxigTUD8ZGxOzOFr0k1Qd8">
+  <img src="https://github.com/tehseenc/PocketCRM/blob/master/screenshots/Screenshot%20from%202019-12-02%2022-24-56.png?raw=true">
 </p>
 <p>After completing the process, they can go into the table by clicking the tile with the table.</p>
 <p align="center">
   Table Page
   <br><br>
-  <img src="https://lh3.googleusercontent.com/jCHoOD-unxNGlRQr4f1kVmTvPAn6BvEj4oRngCUkCH70t8WfEbX59NYhgjdyEeiBeJUJcEzu5Qd-">
+  <img src="https://github.com/tehseenc/PocketCRM/blob/master/screenshots/Screenshot%20from%202019-12-02%2022-25-24.png?raw=true">
 </p>
 <p>This will navigate to the ListEntities page were all the data of there tables will be listed. If the table was recently created then, they will have to first add attributes, then they will be able to add data to the table.</p>
 <p align="center">
@@ -42,7 +42,7 @@
 <p align="center">
   Add Attributes Form
   <br><br>
-  <img src="https://lh3.googleusercontent.com/jNnfygBXRVnHAJi8ePIVzcvhdl_Ev0pUZNucrX_K-l9ii21vxTiCdNtGPuYIZ9w4fSq3Cm0fxNIx">
+  <img src="https://github.com/tehseenc/PocketCRM/blob/master/screenshots/Screenshot%20from%202019-12-02%2022-25-52.png?raw=true">
   <br><br>
   Add Entity Form
   <br><br>
@@ -57,7 +57,7 @@ After completing the process the entity will now appear on the screen. To Get mo
   <br><br>
  Detailed Entity Page
   <br><br>
-  <img src="https://lh3.googleusercontent.com/SCxww5xvUnHM7upyyscxF__x_jafJmEEKHvpTVPT4b30GmHBbIJqqJtxXu3lItJKKxRgw8iJbQeQ">
+  <img src="https://github.com/tehseenc/PocketCRM/blob/master/screenshots/Screenshot%20from%202019-12-02%2022-27-05.png?raw=true">
  </p>
 <p>Once they are satisfied with the data, the user can now create a new dashboard element they do this by navigating to the dashboard page and pressing the create dashboard button. After providing the data required the dashboard element would be created.</p>
 <p align="center">
